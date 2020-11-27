@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="3893343877" file="/Users/jpodell/Documents/GitHub/nertmachine/NertMachine.prj" location="/Users/jpodell/Documents/GitHub/nertmachine" name="NertMachine" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="371848281" file="/Users/jpodell/Documents/GitHub/nertmachine/NertMachine.prj" location="/Users/jpodell/Documents/GitHub/nertmachine" name="NertMachine" target="target.mlapps" target-name="Package App">
     <param.appname>NertMachine</param.appname>
     <param.authnamewatermark>JP O'Dell</param.authnamewatermark>
     <param.email>jpodell@calpoly.edu</param.email>
@@ -9,7 +9,7 @@
     <param.summary />
     <param.description>This software may only be used by the best of the best nerters.</param.description>
     <param.screenshot>/private/var/folders/gr/cwsydclj003bqgmc5gmk042h0000gn/T/tpe52970eb_483b_46e9_b45d_fb2172fc536b.png</param.screenshot>
-    <param.version>2.0</param.version>
+    <param.version>2.1</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
